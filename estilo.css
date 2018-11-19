@@ -1,0 +1,22 @@
+#img-icons{
+    margin-top: 102px;
+}
+
+#img-icons img{
+	display: inline-block;
+}
+#img-icons p{
+	margin-left: 90px;
+	margin-top: -40px;	
+}
+
+#img-icons b{
+   margin-left:20px;
+
+}
+
+#icon-center{
+    display:flex;
+	justify-content: center;
+	align-items: center;
+}
