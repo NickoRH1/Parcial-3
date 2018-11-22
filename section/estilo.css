@@ -1,0 +1,13 @@
+#center-wd{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+.img1{
+	float: right;
+	margin-top: -150px;
+
+}
+.wd{
+
+}
